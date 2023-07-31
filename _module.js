@@ -6534,7 +6534,7 @@ function create_fragment$b(ctx) {
 					"url": "https://res.cloudinary.com/primoaf/image/upload/v1659676914/favicon_roaxv0.png",
 					"size": null
 				},
-				heading: "Hello world, updating from the editor account.",
+				heading: "Hello world, changing content.",
 				subheading: "Get your meetings effortlessly organized with Cali. So you can spend more time on meeting people instead of scheduling meetings.",
 				link: { "url": "/", "label": "Schedule a demo" },
 				image: {
